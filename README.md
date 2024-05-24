@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toomanynates (Nate)
 - 👀 I’m interested in familiarizing myself with GitHub since I haven't used it in a corporate setting
 - 🌱 I have experience with HTML and JavaScript. Decades ago I was a C++ developer but I haven't touched it for years. I’m currently interested in studying Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cryptocurrency trading algorithms.
 - 📫 You can reach me at toomanynates at yahoo dot com
 
 <!---
